@@ -26,6 +26,7 @@ conda-env/
 # MLflow
 # =========================
 mlruns/
+artifacts_local_scenario2/
 mlartifacts/
 
 # =========================
@@ -96,3 +97,14 @@ temp/
 # Jupyter Notebook
 # =========================
 .ipynb_checkpoints/
+
+# ========================
+#junie files
+#=========================
+.junie
+
+# ========================
+#others
+#=========================
+mlflow-local-stack/postgres-data/
+mlflow-local-stack/minio-data/
